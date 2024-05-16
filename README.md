@@ -3,3 +3,7 @@ This is a Tic Tac Toe AI that uses Minimax Algorithm. I had used pygame to displ
 Game.py -> Main Tic Tac Toe game against AI
 Misere.py -> Misere Tic Tac Toe game against AI
 Circle.png and Cross.png -> Images
+
+Controls:
+Use mouse to click, and 'r' to restart the game at any point.
+Number of squares for the game can be changed within the code in the beginning of the code with the integer variable "SQUARES". Same for other specific parameters.
