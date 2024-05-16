@@ -10,3 +10,5 @@ Circle.png and Cross.png -> Images
 Controls:
 Use mouse to click, and 'r' to restart the game at any point.
 Number of squares for the game can be changed within the code in the beginning of the code with the integer variable "SQUARES". Same for other specific parameters.
+
+Fact: Misere.py is the exact same code as Game.py except the returned reward or score is of different signs.
